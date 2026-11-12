@@ -1,0 +1,13 @@
+# Keep personal source materials and local outputs out of this skill repository.
+*.docx
+*.doc
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.zip
+.env
+.env.*
+work/
+outputs/
+__pycache__/
