@@ -1,0 +1,4 @@
+interface:
+  display_name: "简历修改skill"
+  short_description: "结合目标岗位提炼个人综述，重写项目成果，输出真实清楚的简历修改稿"
+  default_prompt: "使用 $resume-reviser，根据我的原简历和目标岗位 JD 优化简历，给出完整修改稿、关键修改说明和待补充问题，不编造经历或数据。"
